@@ -44,6 +44,8 @@ public class ShopClass {
 		
 		System.out.println("Thank you for shopping with us! The total amount is " + totalAmount);
 		input.close();
+		
+		System.out.println("Tomas Carrillo");
 	}
 }
 	
